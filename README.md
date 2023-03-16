@@ -3,13 +3,17 @@ Live Walkthrough link:
 (https://kennesawedu-my.sharepoint.com/personal/vboddapa_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvboddapa%5Fstudents%5Fkennesaw%5Fedu%2FDocuments%2FRecordings%2FCall%20with%20Sahith%20and%202%20others%2D20230315%5F222612%2DMeeting%20Recording%2Emp4&ga=1&OR=Teams-HL&CT=1678940127019&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAyMDUwMTQyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
 --------------------------------------------------------------------------------------------------------------
 Code URL
+
 https://github.com/webserviceproject/webserviceproject123
 --------------------------------------------------------------------------------------------------------------
 Project Documents
+
 https://github.com/webserviceproject/Documents
 --------------------------------------------------------------------------------------------------------------
 Team Name: Team 9
+
 Team Members:
+
 Sahith Vardhan Reddy Vancha: Product Owner
 Veeramma Boddapati: Scrum Master
 Subramanya Rahul Annavajhula: Development Team
@@ -38,12 +42,12 @@ https://webserviceproj123.atlassian.net/jira/core/projects/FIRST/board
 
 Kanban Board in Jira
 
-(https://user-images.githubusercontent.com/71249872/225512260-c0c28ead-27d9-44be-be0e-c7f211e6bfda.png)
+![KanbanBoard](https://user-images.githubusercontent.com/71249872/225513188-20a33841-9487-47b3-a50f-7dde246df3a7.png)
 
 --------------------------------------------------------------------------------------------------------------
 
 Burndown Chart:
-(https://user-images.githubusercontent.com/71249872/225512317-7ca66d6e-3afc-47bb-903b-0c74c4584295.jpg)
+![Sprint1_burndown](https://user-images.githubusercontent.com/71249872/225513170-72836493-226b-4df0-8ec0-7cc964e122ff.jpg)
 --------------------------------------------------------------------------------------------------------------
 
 Sprint Daily Scrum Call evidence:
